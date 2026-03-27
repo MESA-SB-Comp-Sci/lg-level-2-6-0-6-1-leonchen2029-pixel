@@ -1,4 +1,24 @@
-* {
-    box-sizing: border-box;
+h1 {
+    background-color:pink;
+    color:white;
 }
-
+.p1{
+    color:yellow;
+}
+html{
+    background-color:gray
+}
+.p2{
+    color:greenyellow;
+}
+.p3{
+    color:aquamarine;
+}
+.border1{
+    padding-bottom:80px;
+    background-color:white;
+    border:5px solid orange;
+}
+p{
+    color:white
+}
