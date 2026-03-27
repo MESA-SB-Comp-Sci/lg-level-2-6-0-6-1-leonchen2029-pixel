@@ -1,2 +1,2 @@
 <!-- Write explantation below of tag choice below for an attempt at a level 4  -->
-I
+I used the tag p2 to select all the text in the 2nd paragraph so that I can edit their properties without messing up all the other p tags and the other h2 tags.
