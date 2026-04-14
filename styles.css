@@ -15,10 +15,17 @@ html{
     color:aquamarine;
 }
 .border1{
-    padding-bottom:80px;
+    padding:80px;
     background-color:white;
-    border:5px solid orange;
+    border:10px solid orange;
+    text-align: center;
 }
 p{
     color:white
+}
+li{
+    padding:80px;
+    background-color:white;
+    border:10px solid green;
+    display: inline-block;
 }
